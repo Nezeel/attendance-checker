@@ -25,7 +25,8 @@ A simple and interactive web application that helps students calculate and track
 
 ## 📷 Preview
 
-(Add a screenshot of your app here)
+<img width="1680" height="962" alt="image" src="https://github.com/user-attachments/assets/a8cfb398-dcfd-4a55-9f20-e6a8d572d0c8" />
+
 
 ---
 
@@ -35,12 +36,6 @@ A simple and interactive web application that helps students calculate and track
 2. Enter classes attended
 3. Select attendance criteria
 4. Get instant results with required calculations
-
----
-
-## 🌍 Live Demo
-
-(You can add your Vercel/GitHub Pages link here after deployment)
 
 ---
 
