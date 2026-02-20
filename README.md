@@ -1,16 +1,52 @@
-# React + Vite
+# 📊 Attendance Checker Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive web application that helps students calculate and track their attendance percentage easily.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- ✅ Calculate attendance percentage instantly
+- 🎯 Set attendance criteria (like 65%, 75%, etc.)
+- 📉 Shows how many classes you can miss
+- 📈 Shows how many classes you need to attend to reach target
+- 🎨 Clean UI with smooth animations
+- 💻 Fully responsive design
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Built With
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- HTML5  
+- CSS3  
+- JavaScript  
+
+---
+
+## 📷 Preview
+
+(Add a screenshot of your app here)
+
+---
+
+## 📌 How It Works
+
+1. Enter total classes conducted
+2. Enter classes attended
+3. Select attendance criteria
+4. Get instant results with required calculations
+
+---
+
+## 🌍 Live Demo
+
+(You can add your Vercel/GitHub Pages link here after deployment)
+
+---
+
+## 📂 Installation
+
+```bash
+git clone https://github.com/Nezeel/attendance-checker.git
+cd attendance-checker
+open index.html
