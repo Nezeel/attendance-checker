@@ -239,6 +239,7 @@ export default function App() {
                 )}
               </motion.div>
             )}
+            
 
             <div className="pt-4 border-t border-white/20 text-center text-xs text-gray-400">
               Made with ❤️ by <span className="font-semibold">Nezeel Sonani</span>
